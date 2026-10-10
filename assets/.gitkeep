@@ -1,0 +1,3 @@
+# Piece templates (wK.png … bp.png) are generated here.
+# Run `python tools/generate_assets.py` to populate this folder before packaging,
+# or let the app generate them into the per-user data directory on first run.
